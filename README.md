@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning everything about Self - Driving Cars🤣
 - 👯 I’m looking to collaborate with projects related to Self - Driving Cars
 - 🥅 2020 Goals: Make speedy progress towards developing a functional Self - Driving Robot
-- ⚡ Fun fact: There is no fun only work!
+- ⚡ Fun fact: There is no fun, only work!
 
 ### Connect with me:
 
@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Eclipse IDE" width="26px" src="thumbnails/eclipse-ide.png" />][openSTM32]
+[<img align="left" alt="Eclipse IDE" width="26px" src="https://www.pngwave.com/png-clip-art-ngxnc" />][openSTM32]
 [<img align="left" alt="Matlab" width="26px" src="thumbnails/matlab.png" />][Matlab]
 [<img align="left" alt="Pyhton 3" width="26px" src="thumbnails/python3.png" />][Pyhton3]
 [<img align="left" alt="Anaconda" width="26px" src="thumbnails/anaconda.png" />][Anaconda]
