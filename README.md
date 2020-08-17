@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Eclipse IDE" width="26px" src="https://www.pngwave.com/png-clip-art-ngxnc" />][openSTM32]
+[<img align="left" alt="Eclipse IDE" width="26px" src="https://user-images.githubusercontent.com/38962235/90420809-c0b65300-e0b8-11ea-8168-13d215f55de6.png" />][openSTM32]
 [<img align="left" alt="Matlab" width="26px" src="https://user-images.githubusercontent.com/38962235/90419787-5c46c400-e0b7-11ea-941b-5cba55af867a.png" />][Matlab]
 [<img align="left" alt="Pyhton 3" width="26px" src="https://user-images.githubusercontent.com/38962235/90420052-b778b680-e0b7-11ea-8d21-fa73f538366f.png" />][Pyhton3]
 [<img align="left" alt="Anaconda" width="26px" src="https://user-images.githubusercontent.com/38962235/90419985-a3cd5000-e0b7-11ea-859c-780ff4b1596e.png" />][Anaconda]
@@ -88,6 +88,7 @@
 [c-programming]: https://devdocs.io/c/
 [Arduino]: https://www.arduino.cc/
 [Ubuntu]: https://ubuntu.com/
+[raspberry-pi3]: https://www.raspberrypi.org/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
