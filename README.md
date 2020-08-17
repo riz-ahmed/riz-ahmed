@@ -1,14 +1,13 @@
-### Hi there, I'm Rizwan Ahmed - aka [Riz-Ahmed][] 👋
+### Hi there, I'm Rizwan Ahmed - aka [Riz-Ahmed] 👋
 
-- 🔭 I’m currently working on a Software for self - driving cars
-- 🌱 I’m currently learning everything about self - driving cars🤣
-- 👯 I’m looking to collaborate with projects related to self - driving cars
-- 🥅 2020 Goals: Make speed progress towards developing a functional self - driving robot
+- 🔭 I’m currently working on Software Development for Self - Driving Cars
+- 🌱 I’m currently learning everything about Self - Driving Cars🤣
+- 👯 I’m looking to collaborate with projects related to Self - Driving Cars
+- 🥅 2020 Goals: Make speedy progress towards developing a functional Self - Driving Robot
 - ⚡ Fun fact: There is no fun only work!
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -89,10 +88,10 @@
 </details>
 
 [website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/rizwana77519342
+[youtube]: https://www.youtube.com/channel/UCN_8m-6EmrS6G-lMBzyoudA?view_as=subscriber
+[instagram]: https://www.instagram.com/rizahmed89/?hl=en
+[linkedin]: https://www.linkedin.com/in/rizwan-ahmed-35761224/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
