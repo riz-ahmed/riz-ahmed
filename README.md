@@ -20,7 +20,7 @@
 [<img align="left" alt="Eclipse IDE" width="26px" src="https://www.pngwave.com/png-clip-art-ngxnc" />][openSTM32]
 [<img align="left" alt="Matlab" width="26px" src="thumbnails/matlab.png" />][Matlab]
 [<img align="left" alt="Pyhton 3" width="26px" src="thumbnails/python3.png" />][Pyhton3]
-[<img align="left" alt="Anaconda" width="26px" src="thumbnails/anaconda.png" />][Anaconda]
+[<img align="left" alt="Anaconda" width="26px" src="https://github.com/riz-ahmed/riz-ahmed/blob/master/thumbnails/anaconda.png" />][Anaconda]
 [<img align="left" alt="C-programming" width="26px" src="thumbnails/c-prog.png" />][c-programming]
 [<img align="left" alt="Arduino" width="26px" src="thumbnails/arduino.png" />][Arduino]
 [<img align="left" alt="arm-cortex-m" width="26px" src="thumbnails/arm-cortex.png" />][c-programming]
@@ -43,22 +43,18 @@
 - [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://www.youtube.com/watch?v=ZT66N5hBiCE)
 - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
 <!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/codestackr)
-
+<!--
+➡️ [more videos...](https://youtube.com/)
+-->
 ---
-
+<!--
 ### 📕 Latest Blog Posts
-
+-->
 <!-- BLOG-POST-LIST:START -->
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
+
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+
 
 ---
 
