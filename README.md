@@ -18,7 +18,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Eclipse IDE" width="26px" src="https://www.pngwave.com/png-clip-art-ngxnc" />][openSTM32]
-[<img align="left" alt="Matlab" width="26px" src="thumbnails/matlab.png" />][Matlab]
+[<img align="left" alt="Matlab" width="26px" src="https://user-images.githubusercontent.com/38962235/90419787-5c46c400-e0b7-11ea-941b-5cba55af867a.png" />][Matlab]
 [<img align="left" alt="Pyhton 3" width="26px" src="thumbnails/python3.png" />][Pyhton3]
 [<img align="left" alt="Anaconda" width="26px" src="https://github.com/riz-ahmed/riz-ahmed/blob/master/thumbnails/anaconda.png" />][Anaconda]
 [<img align="left" alt="C-programming" width="26px" src="thumbnails/c-prog.png" />][c-programming]
