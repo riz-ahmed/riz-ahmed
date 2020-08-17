@@ -8,11 +8,11 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Autonomous Vehicle Programming
-- 🌱 I’m currently learning literally everyhting about self - driving cars
+- 🌱 I’m currently learning literally everything about self - driving cars
 - 👯 I’m looking to collaborate on projects dealing with self - driving cars
 - 🤔 I’m looking for help with speeding up the process of learning
 - 💬 Ask me about Matlab / Simulink, C- and Python Programming as well as vehicle dynamics and controls
 - 📫 How to reach me: rzwn.hmd@gmail.com (Email)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- ⚡ Fun fact:
 -->
