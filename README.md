@@ -1,7 +1,7 @@
 ### Hi there, I'm Rizwan Ahmed - aka [Riz-Ahmed] 👋
 
 - 🔭 I’m currently working on Software Development as well as Software Testing, focusing in the area of Automotive in General and Self - Driving Cars in particular
-- 🌱 I’m currently learning everything about Software Testing🤣
+- 🌱 I’m currently learning everything about Automation on Software Testing using Python and Jira Tool for Test Managment
 - 👯 I’m looking to collaborate with projects related to Software Testing, AI based software testing
 - 🥅 2021 Goals: ISTQB, Automotive Software Testing and Machine Learning for Software Testing and Development
 - ⚡ Fun fact: There is no fun for workaholics!
