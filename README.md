@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning everything about Automation on Software Testing using Python and Jira Tool for Test Managment
 - 👯 I’m looking to collaborate with projects related to Software Testing, AI based software testing
 - 🥅 2021 Goals: ISTQB, Automotive Software Testing and Machine Learning for Software Testing and Development
-- ⚡ Fun fact: There is no fun for workaholics!
 
 ### Connect with me:
 
