@@ -1,14 +1,10 @@
 ### Hi there, I'm Rizwan Ahmed - aka [Riz-Ahmed] 👋
 
-- 🔭 I’m currently working on Software Development as well as Software Testing, focusing in the area of Automotive in General and Self - Driving Cars in particular
-- 🌱 I’m currently learning everything about Automation on Software Testing using Python and Jira Tool for Test Managment
-- 👯 I’m looking to collaborate with projects related to Software Testing, AI based software testing
-- 🥅 2021 Goals: ISTQB, Automotive Software Testing and Machine Learning for Software Testing and Development
+- Software Engineer: Linux, Free and Open Software Enthausist
 
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -18,12 +14,9 @@
 
 [<img align="left" alt="Eclipse IDE" width="26px" src="https://user-images.githubusercontent.com/38962235/90420809-c0b65300-e0b8-11ea-8168-13d215f55de6.png" />][openSTM32]
 [<img align="left" alt="Matlab" width="26px" src="https://user-images.githubusercontent.com/38962235/90419787-5c46c400-e0b7-11ea-941b-5cba55af867a.png" />][Matlab]
-[<img align="left" alt="Pyhton 3" width="26px" src="https://user-images.githubusercontent.com/38962235/90420052-b778b680-e0b7-11ea-8d21-fa73f538366f.png" />][Pyhton3]
-[<img align="left" alt="Anaconda" width="26px" src="https://user-images.githubusercontent.com/38962235/90419985-a3cd5000-e0b7-11ea-859c-780ff4b1596e.png" />][Anaconda]
 [<img align="left" alt="C-programming" width="26px" src="https://user-images.githubusercontent.com/38962235/90420091-c95a5980-e0b7-11ea-9178-cbc4756adcc4.png" />][c-programming]
 [<img align="left" alt="Arduino" width="26px" src="https://user-images.githubusercontent.com/38962235/90420150-de36ed00-e0b7-11ea-80ef-202fe6333e82.png" />][Arduino]
 [<img align="left" alt="arm-cortex-m" width="26px" src="https://user-images.githubusercontent.com/38962235/90420492-51406380-e0b8-11ea-99b2-05f01c9cc792.png" />][raspberry-pi3]
-[<img align="left" alt="ubuntu" width="26px" src="https://user-images.githubusercontent.com/38962235/90420551-6917e780-e0b8-11ea-8cee-a49dddd2d1c3.png" />][Ubuntu]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
@@ -37,7 +30,6 @@
 
 <!-- YOUTUBE:START -->
 - [Multibody Bicycle Simulator](https://www.youtube.com/watch?v=azP1CgeyOW4)
-- [deepak](https://www.youtube.com/watch?v=XJRqUCG4PU0)
 <!-- YOUTUBE:END -->
 <!--
 ➡️ [more videos...](https://youtube.com/)
