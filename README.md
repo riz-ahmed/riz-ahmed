@@ -12,11 +12,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Eclipse IDE" width="26px" src="https://user-images.githubusercontent.com/38962235/90420809-c0b65300-e0b8-11ea-8168-13d215f55de6.png" />][openSTM32]
-[<img align="left" alt="Matlab" width="26px" src="https://user-images.githubusercontent.com/38962235/90419787-5c46c400-e0b7-11ea-941b-5cba55af867a.png" />][Matlab]
 [<img align="left" alt="C-programming" width="26px" src="https://user-images.githubusercontent.com/38962235/90420091-c95a5980-e0b7-11ea-9178-cbc4756adcc4.png" />][c-programming]
-[<img align="left" alt="Arduino" width="26px" src="https://user-images.githubusercontent.com/38962235/90420150-de36ed00-e0b7-11ea-80ef-202fe6333e82.png" />][Arduino]
-[<img align="left" alt="arm-cortex-m" width="26px" src="https://user-images.githubusercontent.com/38962235/90420492-51406380-e0b8-11ea-99b2-05f01c9cc792.png" />][raspberry-pi3]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
